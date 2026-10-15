@@ -14,4 +14,4 @@
 | [事务型智能客服 Agent](https://github.com/YunYao-9527/customer-service-agent) | 围绕订单、退款、物流和账户操作，以状态机管理多轮交互、工具执行与业务约束。 | [项目页](https://yunyao-9527.github.io/customer-service-agent/) |
 | [图文大模型与 AR 沉浸式交互](https://github.com/YunYao-9527/multimodal-ar-exhibition-system) | 将图像理解、讲解问答、可控视觉生成与 AR 展示串成展馆交互链路。 | [项目页](https://yunyao-9527.github.io/multimodal-ar-exhibition-system/) |
 
-项目页说明技术路线与运行要求。Python 后端的实际部署地址将在服务验证后补充；AR 仓库为技术展示。
+当前提供项目展示页；Python 后端暂未部署，启动代码与部署说明保留在仓库中。AR 仓库为技术展示。
