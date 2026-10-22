@@ -14,6 +14,6 @@
 | [事务型智能客服 Agent](https://github.com/YunYao-9527/customer-service-agent) | 使用模拟业务库，完成订单查询、退款政策检查、用户确认与失败补偿。 | [打开工作台](https://yunyao-customer-service.onrender.com/) |
 | [图文大模型与 AR 沉浸式交互](https://github.com/YunYao-9527/multimodal-ar-exhibition-system) | 原应用源码缺失，公开技术路线、选型与个人贡献记录，不声称当前有可运行 AR 应用。 | [技术档案](https://yunyao-9527.github.io/multimodal-ar-exhibition-system/) |
 
-四个 Python 系统已部署到 Render Free，并通过公网健康与业务流程验证。免费实例可能休眠，首次打开需要等待；演示数据不保证长期保存。模型密钥默认未配置，模型对话与完整 CLIP 不属于当前免费部署。
+四个 Python 系统已部署到 Render Free，并通过公网健康与业务流程验证。客服、AgentOps 和气象证据层已接通 DeepSeek 官方模型；密钥仅保存在服务端环境变量，公开演示设置调用次数和输入输出限制。模型费用与免费托管分开计算。免费实例可能休眠，演示数据不保证长期保存；完整 CLIP 不属于当前免费部署。
 
-2026-10-22 自动化回归：气象 42 项、AgentOps 12 项、客服 32 项、CAD 3 项，共 89 项通过。测试结果和实现边界在各仓库中保留。
+2026-10-22 自动化回归：气象 45 项、AgentOps 16 项、客服 36 项、CAD 3 项，共 100 项通过。另已完成三个系统的真实 DeepSeek 调用验收，测试结果和实现边界在各仓库中保留。
